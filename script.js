@@ -41,7 +41,7 @@ ScrollReveal().reveal('.home-content h1', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Engineer''Frontend Developer', 'UI/UX Designer', ],
+    strings: ['Engineer','Frontend Developer', 'UI/UX Designer', ],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -56,3 +56,4 @@ function updateClock() {
 setInterval(updateClock, 1000);
 
 updateClock();
+
