@@ -1,5 +1,4 @@
-🌟
-�
+🌟 ##MY PROTOFOLIO##
 A sleek, modern, and fully responsive portfolio website built to showcase your skills, projects, and achievements with style and efficiency.🚀 Perfect for developers, designers, and creatives looking to make a lasting impression online.
 
 📖 Table of Contents
